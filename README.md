@@ -1,11 +1,22 @@
-# Intro
+MeemLev Docs
+=======================================================
+## Table of Contents
+
+ * [Overview](#overview)
+ * [Demo](#dao-presets)
+ * [DAO Presets](#dao-presets)
+ * [MeemLev Public API](#meemlev-public-api)
+
+
+# Overview
 Welcome to MeemLev General repo.
 This repository hosts general docs for MeemLev. You can find the following:
 - MeemLev [Whitepaper](https://github.com/meemlev/general/blob/main/MeemLev_wp.pdf)
 - Documentation for MeemLev Public API to interact with MeemLev contract on the blockchain.
 - MeemLev DAO proposals are handled through this repo as well
 
-## Demo: Interacting with the MeemLev Contract on the Sepolia Network
+# Demo
+Video below shows how to interact with the MeemLev Contract on the Sepolia Network through MeemHub.
 https://github.com/meemlev/general/assets/166253179/8d6ca66b-75cd-4fae-8a0b-0ea930a71e8f
 
 ---
@@ -45,10 +56,8 @@ quorum: 90%
 ```
 
 ---
-# MeemLev API
+# MeemLev Public API
 The upcoming MeemLev Public API will offer users and developers a user-friendly REST API for seamless interaction with the MeemLev contract. Stay tuned as we prepare to roll out this API soon. Below, you'll find the preliminary definition of the API set to be released
-
-## Welcome to MeemLev API.
 
 ## Public Callables
 
