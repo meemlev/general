@@ -9,6 +9,42 @@ This repository hosts general docs for MeemLev. You can find the following:
 https://github.com/meemlev/general/assets/166253179/8d6ca66b-75cd-4fae-8a0b-0ea930a71e8f
 
 ---
+# DAO Presets
+
+### General configurations
+```yaml
+_maxActiveProposals: 3
+_minVoterStake: 1000
+_minProposerStake: 100000
+_minStakingDuration: 7 days
+_stakingBaseDuration: 14 days
+_durationCapFactor: 10
+```
+
+### Categories configurations
+```yaml
+// Ecosystem
+maxVotingDuration: 14 days
+minVotingDuration: 7 days
+quorum: 90%
+
+// Rewards
+maxVotingDuration: 14 days
+minVotingDuration: 7 days
+quorum: 90%
+
+// Team
+maxVotingDuration: 7 days
+minVotingDuration: 3 days
+quorum: 90%
+
+// Founders
+maxVotingDuration: 7 days
+minVotingDuration: 3 days
+quorum: 90%
+```
+
+---
 # MeemLev API
 The upcoming MeemLev Public API will offer users and developers a user-friendly REST API for seamless interaction with the MeemLev contract. Stay tuned as we prepare to roll out this API soon. Below, you'll find the preliminary definition of the API set to be released
 
