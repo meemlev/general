@@ -3,7 +3,7 @@ MeemLev Docs
 ## Table of Contents
 
  * [Overview](#overview)
- * [Demo](#dao-presets)
+ * [Demo](#demo)
  * [DAO Presets](#dao-presets)
  * [MeemLev Public API](#meemlev-public-api)
 
