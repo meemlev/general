@@ -35,22 +35,22 @@ _durationCapFactor: 10
 
 ### Categories configurations
 ```yaml
-// Ecosystem
-maxVotingDuration: 14 days
-minVotingDuration: 7 days
-quorum: 90%
-
 // Rewards
 maxVotingDuration: 14 days
 minVotingDuration: 7 days
 quorum: 90%
 
-// Team
+// Ecosystem
+maxVotingDuration: 14 days
+minVotingDuration: 7 days
+quorum: 90%
+
+// Founders
 maxVotingDuration: 7 days
 minVotingDuration: 3 days
 quorum: 90%
 
-// Founders
+// Team
 maxVotingDuration: 7 days
 minVotingDuration: 3 days
 quorum: 90%
